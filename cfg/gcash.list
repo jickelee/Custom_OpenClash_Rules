@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,gcash.com
 USER-AGENT,gcash*
+DOMAIN-SUFFIX,maya.ph
+USER-AGENT,maya*
