@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,hezu.life
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,crisp.chat
 USER-AGENT,crisp*
+DOMAIN-SUFFIX,client.relay.crisp.chat
+DOMAIN-SUFFIX,app.relay.crisp.chat
