@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,hezu.life
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,crisp.chat
+USER-AGENT,crisp*
