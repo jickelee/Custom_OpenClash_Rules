@@ -5,9 +5,9 @@
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 20
-# IP-CIDR: 2
+# IP-CIDR: 3
 # PROCESS-NAME: 1
-# TOTAL: 30
+# TOTAL: 31
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
@@ -38,4 +38,5 @@ DOMAIN-SUFFIX,tospotify.com
 DOMAIN-KEYWORD,spotify
 IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
+IP-CIDR,43.167.224.185/32,no-resolve
 PROCESS-NAME,com.spotify.music
